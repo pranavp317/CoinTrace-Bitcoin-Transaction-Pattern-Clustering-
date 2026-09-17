@@ -73,6 +73,3 @@ Dataset download requires a Kaggle account and API credentials configured for `k
 
 Active development. This README will be updated as each stage of the roadmap is completed.
 
-## License
-
-MIT
